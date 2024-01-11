@@ -1,0 +1,12 @@
+{
+    "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "prefix": "!",
+    "mongooseConnectionString": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+
+
+
+    "log": "لوق البلاك ليست ",
+    "idroleban": "ايدي رتبه البان",
+    "banman": "بان منجر", 
+    "notenable": "رتبه غير مفعل"
+}
